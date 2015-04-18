@@ -21,7 +21,7 @@
         android:layout_alignParentBottom="true"
         android:orientation="vertical" >
 
-        <com.google.android.gms.ads.AdView
+       <!-- <com.google.android.gms.ads.AdView
             xmlns:ads="http://schemas.android.com/apk/res-auto"
             android:id="@+id/adView"
             android:layout_width="wrap_content"
@@ -29,7 +29,7 @@
             android:layout_weight="1"
             ads:adSize="SMART_BANNER"
             ads:adUnitId="ca-app-pub-8485337591062784/5403383553"
-            android:gravity="bottom" />
+            android:gravity="bottom" />-->
     </LinearLayout>
 
 </RelativeLayout>

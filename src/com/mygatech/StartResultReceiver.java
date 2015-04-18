@@ -9,11 +9,10 @@ public class StartResultReceiver extends ResultReceiver {
 
     public StartResultReceiver(Handler handler) {
         super(handler);
-        // TODO Auto-generated constructor stub
     }
 
     public interface Receiver {
-        public void onReceiveResult(int resultCode, Bundle resultData);
+        void onReceiveResult(int resultCode, Bundle resultData);
 
     }
 
