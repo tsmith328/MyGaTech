@@ -49,9 +49,9 @@ public class BuzzportActivity extends Activity {
 		wv.getSettings().setJavaScriptEnabled(true);
 	    wv.getSettings().setBuiltInZoomControls(true);
 		wv.getSettings().setUseWideViewPort(true);//must be true
-	    wv.getSettings().setJavaScriptCanOpenWindowsAutomatically(true); // javascript가 window.open()을 사용할 수 있도록 설정
-	    wv.getSettings().setSupportMultipleWindows(true); // 여러개의 윈도우를 사용할 수 있도록 설정
-	    wv.getSettings().setLoadsImagesAutomatically(true); // 웹뷰가 앱에 등록되어 있는 이미지 리소스를 자동으로 로드하도록 설정
+	    wv.getSettings().setJavaScriptCanOpenWindowsAutomatically(true); // javascript가 window.open()
+	    wv.getSettings().setSupportMultipleWindows(true); // Use multiple windows
+	    wv.getSettings().setLoadsImagesAutomatically(true); // Automatically load images
 	    wv.getSettings().setAllowFileAccessFromFileURLs(true);
 	    wv.getSettings().setAppCacheEnabled(true);
 	    wv.getSettings().setAllowUniversalAccessFromFileURLs(true);

@@ -1,5 +1,5 @@
 # MyGaTech
-Android application written purely in Java with Eclipse IDE.
+Android application written purely in Java with Eclipse IDE and Android Studio.
 
 ## Structures
 *  T-Square : fetch and parse data related to the user's classes, notify new assignment, grades, etc.
@@ -17,7 +17,8 @@ Android application written purely in Java with Eclipse IDE.
 ## Disclaimer
 MyGaTech follows GPLv3
 
-Copyright (C) 2014 JL, RR at College of Computing, Georgia Tech.
+Copyright (C) 2014-2015 JL, RR, TS at College of Computing, Georgia Tech.
+    Source Code forked from https://github.com/forkjoseph/MyGaTech
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
